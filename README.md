@@ -38,7 +38,7 @@ Below are some screenshots of the website:
 
 ## **Live Demo**  
 Check out the live version of the website here:  
-[Live Demo Link](https://your-github-live-link.com)  
+[Live Demo Link](https://navas28.github.io/Dairy-Product-Website/)  
  
 
 ## **Credits**  
